@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-sandbox-sample-maven -  ubuntu LOCAL
-=======
-sandbox-sample-maven -  ubuntu 2 - WEB CHANGE
->>>>>>> origin/master
-====================
+sandbox-sample-maven
+
+teeeest
 
 This is a sample project that demostrates usage of maven with GWT.
 
