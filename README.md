@@ -1,6 +1,7 @@
 sandbox-sample-maven
 
-test master
+test 1 ubuntu
+111
 
 This is a sample project that demostrates usage of maven with GWT.
 
