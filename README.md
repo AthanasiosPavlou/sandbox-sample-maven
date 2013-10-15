@@ -1,4 +1,4 @@
-sandbox-sample-maven -  ubuntu local change
+sandbox-sample-maven -  ubuntu ANOTHER local change
 ====================
 
 This is a sample project that demostrates usage of maven with GWT.
