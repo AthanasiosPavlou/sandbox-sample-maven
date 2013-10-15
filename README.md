@@ -1,6 +1,6 @@
 sandbox-sample-maven
 
-test ububub
+test master
 
 This is a sample project that demostrates usage of maven with GWT.
 
