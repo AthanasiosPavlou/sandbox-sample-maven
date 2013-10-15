@@ -1,4 +1,4 @@
-sandbox-sample-maven -  branched
+sandbox-sample-maven -  master
 ====================
 
 This is a sample project that demostrates usage of maven with GWT.
