@@ -1,6 +1,6 @@
 sandbox-sample-maven
 
-teeeest
+test 1 br 12345
 
 This is a sample project that demostrates usage of maven with GWT.
 
